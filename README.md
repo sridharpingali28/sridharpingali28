@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sridharpingali28
-- 👀 I’m interested in data and how to analyze data through various visualization tools.
-- 🌱 I’m currently pursuing a degree in biology but planning to switch to a degree in math and computer science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me through twitter and linkedin. 
+👋 Hi, I’m Sridhar Pingali (@sridharpingali28)
+👀 I’m interested in data and how to analyze data through various visualization tools.
+🌱 I’m currently pursuing a degree in biology but planning to switch to a degree in computer science.
+📫 you can reach me through twitter and linkedin. 
     - twitter: sridhar.pingali
     - linkedin: Sridhar Pingali
 
